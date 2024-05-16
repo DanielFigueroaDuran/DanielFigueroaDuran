@@ -17,7 +17,7 @@
  
  ✉️ ¡Puedes enviarme un correo electrónico a figueroadurandanielelias@gmail.com ! Intentaré responder tan pronto como pueda.
  
- <figure>
+ <figure align="center">
   <img alt="Night Coding" src="./img/escritorio.gif" align="center" style= "width:90%" />
  </figure>
 
