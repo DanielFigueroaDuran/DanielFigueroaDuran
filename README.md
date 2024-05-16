@@ -1,19 +1,47 @@
 
 <div align="center">
 
-![Header](github-header.png)
+![Header](github-header1.png)
+
+</div>
+    <h2 align="center">Gracias por tomarse el tiempo de ver mi perfil de GitHub  😄</h2>
+    <div display="flex" flex-direction="column" >
+        <h2>👨🏻‍💻  Acerca de mí <img src="./img/icon.webp" width = 100px></h2>
+    </div>
+
+🌱 Actualmente me dedico a: Reforzar conocimientos de     tecnologías e investigar principios, patrones buenas prácticas y metodologías de desarrollo.✨     
+
+ 💡 Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos. 
+
+ 💬 No dudes en comunicarte conmigo para realizar consultoría y voluntariado, o simplemente para tener una discusión interesante. ¡Estoy abierto a comentarios y sugerencias!
+ 
+ ✉️ ¡Puedes enviarme un correo electrónico a figueroadurandanielelias@gmail.com ! Intentaré responder tan pronto como pueda.
+ 
+ <figure>
+  <img alt="Night Coding" src="./img/escritorio.gif" align="center" style= "width:90%" />
+ </figure>
+
+</div>
+<!-- width="55%" align="right"💻 -->
+
+
+
+
 
 
 <!-- <div align="center">
 <img src="" align="center" style="width: 100%" />
 </div>  
   
+  -------
+
+  
 
 ### <div align="center">¡Tengo pasión por la programación y la tecnología!  en **búsqueda activa** de empleo♨️
 </div>  
   
 
-- 🔭💻 Actualmente me dedico a: Reforzar conocimientos de tecnologías e investigar principios, patrones buenas prácticas y metodologías de desarrollo.✨  
+- 🔭  
 
   
 <br/>  
