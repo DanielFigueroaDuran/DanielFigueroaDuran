@@ -5,11 +5,11 @@
 
 </div>
     <h3 align="center">
-      Gracias por tomarse el tiempo de ver mi perfil de GitHub    <img alt="Night Coding" src="./img/mano.gif" align="center" style= "width:5%" />
+      Gracias por tomarse el tiempo de ver mi perfil de GitHub    <img alt="Night Coding" src="./img/mano.gif"  style= "width:50px" />
     </h3>
     <img src="./img/linea.gif" />
     <div>
-        <h3>👨🏻‍💻  Acerca de mí <img src="./img/icon.webp" width="100px"></h3>
+        <h3>👨🏻‍💻  Acerca de mí <img src="./img/icon.webp" width="100px" ></h3>
         <img src="./img/linea.gif" />
     </div>
 
@@ -34,7 +34,7 @@
 
 <div align="center">
     <a href="https://en.wikipedia.org/wiki/HTML5"  target="_blank">
-      <img style="margin: 10px" src="./img/html5.svg"  alt="HTML5" height="50" />
+      <img style="margin: 10px" src="./img/html5.svg"  alt="HTML5" height="50px" />
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank">
       <img  style="margin: 10px" src="./img/css3.svg" alt="CSS3" height="50" / >
