@@ -18,6 +18,8 @@
  💡 Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos. 
 
  💬 No dudes en comunicarte conmigo para realizar consultoría y voluntariado, o simplemente para tener una discusión interesante. ¡Estoy abierto a comentarios y sugerencias!
+
+ 💬 Pregúntame sobre: ​​Cualquier cosa, la verdad, me encanta conocer y aprender cosas nuevas.
  
  ✉️ ¡Puedes enviarme un correo electrónico a figueroadurandanielelias@gmail.com ! Intentaré responder tan pronto como pueda.  
  
